@@ -1,0 +1,6 @@
+framework module Pods_OneLoginPod_OneLoginPodTests {
+  umbrella header "Pods-OneLoginPod-OneLoginPodTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
